@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182223704626",
+    "firebase_url": "https://bookmyshow-80fd8.firebaseio.com",
+    "project_id": "bookmyshow-80fd8",
+    "storage_bucket": "bookmyshow-80fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182223704626:android:bb1e3caad11543c3",
+        "android_client_info": {
+          "package_name": "com.example.chinmaymahajan.bookmyshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182223704626-gnu529lkbtnfv1j687fenmdnohvq4b75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chinmaymahajan.bookmyshow",
+            "certificate_hash": "b16c27484687bf5cdf7b03095fb500827415d26d"
+          }
+        },
+        {
+          "client_id": "182223704626-fnq5fbotb0etosko8f72q70fv0sv706l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsY0BerKTpWLDqXZd1spsh40YBpFWU4jo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182223704626-fnq5fbotb0etosko8f72q70fv0sv706l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
